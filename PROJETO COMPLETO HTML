@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cine Diversão</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+</head>
+</html>
+<body>
+</body>
+    </div>
+</section>
+<section class="container principal">
+    <div> src="img/Combo.png
+        <h1>Cine Diversão, Filmes e séries para você e toda sua familia.
+        </h1>
+        <img" alt="O combo+ é a junção do alura+ e o alura língua">
+        <a href="www.alura.com.br" class="container__botao">Assine por 12,90 por mês:</a>
+        <a href="www.alura.com.br" class="container__botao botao_secundario">Anual por 154,80 </a><head>
+    <title>Cine Diversão</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<section class="container principal">
+<div>
+<div class="container__descricao">
+    <h2 class="descricao__titulo">VEJA EM  TODOS OS DISPOSITIVOS</h2>
+    <p class="descricao__texto">Aproveita a tela grande da TV ou assista no Tablet, Laptop, Celular e outros aparelhos. Nossa coleção de filmes e series não para de crescer.</p>
+</section>
+<section class="container secundario">
+    <div class="container__descricao">
+        <p class="descricao__texto">
+            Você pode abaixar filmes e séries para assistir offline. 
+
+        <a href="www.alura.com.br" class="container_botao secundario_botao" container></a>
+    </div>
+    <img src="img/Telas.png" alt="em busca do melhor sempre!" class="secundario__imagem">
+</section>
+<section class="dispositivos">
+    <h2 class="dispositivos__titulo">Disponível nos seus dispositivos favoritos</h2>
+    <ul class="dispositivos__lista">
+        <li>
+            <img src="/home/escola/Downloads/c/images (1).png" alt="Icone de TV">
+            <h3 class="lista__item">TV</h3>
+        </li>
+        <li>
+            <img src="/home/escola/Downloads/c/images.png" alt="Ícone de computador">
+            <h3 class="lista__item">Computador</h3>
+        </li>
+        <li>
+            <img src="/home/escola/Downloads/c/images (2).png">
+            <h3 class="lista__item">Celular</h3>
+        </li>
+    </ul>
+</section>
+<footer class="rodape">
+    <img src="img/Logo.png" alt="" class="rodape__logo">
+    <ul class="rodape__lista">
+        <li class="lista__link">
+            <a href="#">Assinando a plataforma Cine Diversão voce tem:</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Series e filmes abaixados</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Atendimento exclusivo</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Politica de privacidade</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Proteção de dados no Brasil</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Avisos quando chegar series e filmes novos</a>
+        </li>
+        <li class="lista__link">
+            <a href="#">Pagina personalizada com seus gostos</a>
+        </li>
+    </ul>
+    <p class="rodape__texto">® Todos os direitos reservados. Serviço de assinatura paga. Conteúdo sujeito a disponibilidade.</p>
+    <p class="rodape__texto">Cine Diversão é um serviço pago, baseado em assinatura e sujeito a termos e condições. O serviço Cine Diversão é comercializado.</p>
+</footer>
